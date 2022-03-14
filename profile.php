@@ -12,7 +12,7 @@
 </head>
 <body>
 <p>
-    <a href="History.php" class="btn btn-danger ml-3">History</a>
+    <a href="history.php" class="btn btn-danger ml-3">History</a>
 </p>
 </body>
 </html>
