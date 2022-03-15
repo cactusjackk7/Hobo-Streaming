@@ -12,6 +12,7 @@
     <a href="#Trending">Trending</a>
     <a href="profile.php">Profile</a>
     <input type="text" placeholder="Search..">
+    <a href="logout.php">Log Out</a>
 </div>
 </body>
 </html>
