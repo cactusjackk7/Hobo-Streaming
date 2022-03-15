@@ -13,6 +13,7 @@
 <body>
 <p>
     <a href="history.php" class="btn btn-danger ml-3">History</a>
+    <a href="reset-password.php" class="btn btn-danger ml-3">Reset Password</a>
 </p>
 </body>
 </html>
