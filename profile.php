@@ -12,8 +12,10 @@
 </head>
 <body>
 <p>
+    <a href="welcome.php" class="btn btn-danger ml-3">Back</a>
     <a href="history.php" class="btn btn-danger ml-3">History</a>
-    <a href="reset-password.php" class="btn btn-danger ml-3">Reset Password</a>
+    <a href="movies.php" class="btn btn-danger ml-3">Homescreen</a>
+    <a href="reset-password.php" class="btn btn-warning ml-3">Reset Password</a>
 </p>
 </body>
 </html>
