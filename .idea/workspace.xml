@@ -1,7 +1,35 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="8b3f9c5b-86e1-47e1-a07a-31040f18e31f" name="Default Changelist" comment="" />
+    <list default="true" id="8b3f9c5b-86e1-47e1-a07a-31040f18e31f" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/._testHOBO.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/banner.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/large-movie1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/large-movie2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/large-movie3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/large-movie4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/large-movie5.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/large-movie6.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/large-movie7.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/large-movie8.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/netflix-avatar.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/netflix-logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/small-movie1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/small-movie2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/small-movie3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/small-movie4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/small-movie5.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/small-movie6.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/small-movie7.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/small-movie8.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/css/style.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/movies.css" beforeDir="false" afterPath="$PROJECT_DIR$/movies.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/movies.php" beforeDir="false" afterPath="$PROJECT_DIR$/movies.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/trending.php" beforeDir="false" afterPath="$PROJECT_DIR$/trending.php" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -9,6 +37,9 @@
   </component>
   <component name="ComposerSettings">
     <execution />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="269YluNFwd2y5QU80YYUyZnNYEa" />
   <component name="ProjectViewState">
@@ -36,7 +67,11 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1646837424053</updated>
-      <workItem from="1646837425205" duration="1728000" />
+      <workItem from="1646837425205" duration="2495000" />
+      <workItem from="1646899976334" duration="1145000" />
+      <workItem from="1647252475241" duration="8176000" />
+      <workItem from="1647542091459" duration="736000" />
+      <workItem from="1647857122478" duration="3580000" />
     </task>
     <servers />
   </component>

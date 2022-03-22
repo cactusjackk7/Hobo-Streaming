@@ -1,0 +1,5 @@
+<div class="topnav">
+    <a class="active" href="movies.php">Home</a>
+    <a href="profile.php">Profile</a>
+    <input type="text" placeholder="Search..">
+    <a href="logout.php">Log Out</a>

@@ -1,21 +1,20 @@
-<?php
 
-?>
 <html lang="nl">
 <head>
     <title>Home</title>
     <link rel="stylesheet" href="movies.css">
+
 </head>
 <body>
 <!-- nav -->
 <div class="topnav">
-    <a class="active" href="#home">Home</a>
-    <a href="trending.php">Trending</a>
+    <a class="active" href="movies.php">Home</a>
     <a href="profile.php">Profile</a>
     <input type="text" placeholder="Search..">
     <a href="logout.php">Log Out</a>
 
-<!-- header -->
+
+    <!-- header -->
 <header class="banner">
     <div class="banner__contents">
         <h1 class="banner__title">Money Heist</h1>
